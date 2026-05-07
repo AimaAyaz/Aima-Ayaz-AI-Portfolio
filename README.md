@@ -93,15 +93,44 @@ Aima-Ayaz-AI-Portfolio/
 │
 ├── Assignments/
 │   ├── A01-ML-vs-DL-Tools/
+│   │   ├── A01_Group8_NicoleMarcial_ITAI2376 (1).pdf
+│   │   └── README.md
+│   │
+│   │
 │   ├── A03-CNN-Cheetah/
+│   │   ├── A03_ Group 8_Aima Ayaz_ITAI2376 (1).pdf
+│   │   └── README.md
+│   │
+│   │
 │   ├── A04-Arrival-NLP/
+│   │   ├── A04_Group8_NicoleMarcial_ITAI2376.pdf
+│   │   └── README.md
+│   │
+│   │
 │   └── A04-Gradient-Descent-Story/
+│   │   ├── A04_Group 8_Aima Ayaz_ITAI2376.pptx
+│   │   └── README.md
+│
 │
 ├── Projects/
-    ├── Lab02-NN-From-Scratch/
-    ├── Lab03-CNN-PuppyOrBagel/
-    ├── Lab05-RNNs-Transformers-ViT/
+│   ├── Lab02-NN-From-Scratch/
+│   │   ├── Module_02_Lab_Aima_Ayaz (1).ipynb
+│   │   └── README.md
+│   │
+│   │
+│   ├── Lab03-CNN-PuppyOrBagel/
+│   │   ├── Module_03_Lab_AimAyaz (1).ipynb
+│   │   └── README.md
+│   │
+│   │
+│   ├── Lab05-RNNs-Transformers-ViT/
+│   │   ├── L05_Aima_Ayaz_ITAI2376 (1).ipynb
+│   │   └── README.md
+│   │
+│   │
 │   └── Lab09-RL-CartPole/
+│   │   ├── L09_AimaAyaz_ITAI_2376 (1).ipynb
+│   │   └── README.md
 │
 └── Presentation/
     └──Pf_Aima_ITAI2376.pdf
