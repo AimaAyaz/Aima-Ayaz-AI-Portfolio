@@ -68,26 +68,44 @@ Hands‑on neural network development using PyTorch, TensorFlow, and Hugging Fac
 
 ---
 
+## 🔹 Assignments
+
+### **A01 — ML vs DL Tools (NLTK vs spaCy)**
+➡️ `DeepLearning-ITAI2376/Assignments/A01-ML-vs-DL-Tools/`
+
+### **A03 — CNN Cheetah Story**
+➡️ `DeepLearning-ITAI2376/Assignments/A03-CNN-Cheetah/`
+
+### **A04 — Arrival NLP Analysis**
+➡️ `DeepLearning-ITAI2376/Assignments/A04-Arrival-NLP/`
+
+### **A04 — Gradient Descent Story**
+➡️ `DeepLearning-ITAI2376/Assignments/A04-Gradient-Descent-Story/`
+
+---
+
 ## 🔹 Repository Structure
 
+```markdown
 Aima-Ayaz-AI-Portfolio/
-│── README.md
 │
-├── DeepLearning-ITAI2376/
-│   ├── Lab05-RNNs-Transformers-ViT/
-│   ├── Module09-RL-CartPole/
-│   ├── Module03-CNN-PuppyOrBagel/
-│   └── Module02-NN-From-Scratch/
+├── README.md
 │
-├── NLP-ITAI2373/
-│   └── (Projects added here)
+├── Assignments/
+│   ├── A01-ML-vs-DL-Tools/
+│   ├── A03-CNN-Cheetah/
+│   ├── A04-Arrival-NLP/
+│   └── A04-Gradient-Descent-Story/
 │
-├── Edge-IIoT-ITAI3377/
-│   └── (Projects added here)
+├── Projects/
+    ├── Lab02-NN-From-Scratch/
+    ├── Lab03-CNN-PuppyOrBagel/
+    ├── Lab05-RNNs-Transformers-ViT/
+│   └── Lab09-RL-CartPole/
 │
 └── Presentation/
-└── Pf_Aima_ITAIxxxx.pdf
-
+    └──Pf_Aima_ITAI2376.pdf
+```
 ---
 
 
