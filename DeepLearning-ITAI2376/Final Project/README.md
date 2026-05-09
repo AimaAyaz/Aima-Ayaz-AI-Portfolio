@@ -283,4 +283,134 @@ It may provide:
 
 All of this is demonstrated in the YouTube demo video linked above.
 
+---
+
+### 8. Demo video details
+
+The YouTube demo video (link in the top section) walks through:
+
+**Project motivation**
+- Why build a Study Agent?
+- How it fits into the Deep Learning course.
+
+**Repository tour**
+- Where the main files are.
+- How the code is organized.
+
+**Setup and running**
+- Cloning the repo.
+- Installing dependencies.
+- Running the agent.
+
+**Live interaction**
+- Asking the agent questions.
+- Seeing how it responds.
+- Demonstrating multi‑turn conversation.
+
+**Technical explanation**
+- High‑level architecture.
+- How prompts are structured.
+- How the model is called.
+
+---
+
+### 9. Implementation details (conceptual)
+
+#### 9.1 Prompt design
+
+The Study Agent uses a system prompt that might include instructions like:
+
+- “You are a helpful AI study tutor.”
+- “Explain concepts clearly and step‑by‑step.”
+- “Use examples and analogies when helpful.”
+- “If the user seems confused, restate the idea more simply.”
+
+Additional prompt elements may include:
+
+**Formatting instructions**
+- Use bullet points
+- Use headings
+- Provide summaries at the end
+
+**Behavior constraints**
+- Stay on topic
+- Avoid giving incorrect information
+- Ask clarifying questions if the user’s request is ambiguous
+
+
+#### 9.2 Conversation management
+
+The agent keeps track of:
+
+- Previous user messages  
+- Previous agent responses  
+
+This allows:
+
+- Follow‑up questions like “Can you explain that again more simply?”  
+- Contextual understanding (e.g., “Now compare that to RNNs”).  
+
+The conversation history is typically stored as a list of messages that is passed to the model each time.
+
+
+#### 9.3 Error handling and robustness
+
+The code in the Study Agent repo may include:
+
+- Try/except blocks around model calls  
+- Graceful error messages if something goes wrong  
+- Input validation to avoid empty or invalid queries  
+
+---
+
+### 10. File and folder expectations in the Study Agent repo
+
+```markdown
+## 📂 Project Structure
+
+study-agent-final/
+│
+├── agent/
+├── data/
+│   └── notes/
+│       ├── activation_functions.txt
+│       ├── backpropagation.txt
+│       ├── batch_normalization.txt
+│       ├── cnn_layers.txt
+│       ├── gradient_descent.txt
+│       ├── learning_rate.txt
+│       ├── overfitting.txt
+│       ├── regularization.txt
+│       ├── rnn_vs_lstm.txt
+│       ├── transformers.txt
+│       ├── optimizers.txt
+│       ├── loss_functions.txt
+│       ├── attention_mechanism.txt
+│       ├── pooling_layers.txt
+│       ├── dropout.txt
+│       ├── gradient_clipping.txt
+│       ├── epochs_batches_iterations.txt
+│       ├── convolution_operation.txt
+│       ├── normalization_layers.txt
+│       ├── vanishing_gradients.txt
+│       ├── gru.txt
+│       ├── residual_connections.txt
+│       ├── softmax.txt
+│       ├── cross_entropy.txt
+│       ├── multihead_attention.txt
+│       ├── positional_encoding.txt
+│       ├── autoencoders.txt
+│       ├── gans.txt
+│       ├── reinforcement_learning_basics.txt
+│       ├── dropout_vs_batchnorm.txt
+│
+├── demo/
+│   └── youtube link
+├── docs/
+│   └── architecture.png
+│
+├── README.md
+└── REFLECTION.md
+
+```
 
