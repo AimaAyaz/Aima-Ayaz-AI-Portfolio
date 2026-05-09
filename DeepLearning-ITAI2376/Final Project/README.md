@@ -10,8 +10,8 @@ This final project for **ITAI 2376 – Deep Learning** is an end‑to‑end **AI
 - Providing an interactive, conversational interface for learning  
 
 > 🔗 **Full Project Repository (Study Agent):**  
-> _GitHub Repo:_ `https://github.com/AimaAyaz/AimaAyaz_Solo_ITAI2376.git`  
-> _Demo Video:_ `https://youtu.be/V3oWfrqrHqs` 
+> _GitHub Repo:_ https://github.com/AimaAyaz/AimaAyaz_Solo_ITAI2376.git  
+> _Demo Video:_ https://youtu.be/V3oWfrqrHqs 
 
 This README is a **high‑level, portfolio‑oriented description** of the project.  
 All runnable code, configuration files, and detailed implementation are located in the **separate Study Agent repository** linked above.
@@ -51,7 +51,7 @@ The agent is especially suited for:
 ### 3.1 Main resources
 
 - **Study Agent GitHub Repository**
-  `(https://github.com/AimaAyaz/AimaAyaz_Solo_ITAI2376.git)`
+ https://github.com/AimaAyaz/AimaAyaz_Solo_ITAI2376.git
 
   Contains:
   - Main script(s) to run the agent  
@@ -61,7 +61,7 @@ The agent is especially suited for:
   - Detailed README for installation and usage  
 
 - **Demo Video (YouTube)**  
-  `(https://youtu.be/V3oWfrqrHqs)`  
+ https://youtu.be/V3oWfrqrHqs  
   The video shows:
   - How to set up and run the agent  
   - Example interactions  
