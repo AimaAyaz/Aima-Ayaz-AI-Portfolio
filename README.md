@@ -131,10 +131,10 @@ Aima-Ayaz-AI-Portfolio/
 │   └── Lab09-RL-CartPole/
 │   │   ├── L09_AimaAyaz_ITAI_2376 (1).ipynb
 │   │   └── README.md
-│   │
-│   │
-│   ├── Final Project
-│   │   └── README.md
+│   
+│   
+├── Final Project
+│   └── README.md
 │
 └── Presentation/
     └──Pf_Aima_ITAI2376.pdf
