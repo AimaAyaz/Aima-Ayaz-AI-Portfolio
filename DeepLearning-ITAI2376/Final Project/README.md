@@ -414,3 +414,86 @@ study-agent-final/
 
 ```
 
+---
+
+### 11. How this project demonstrates course learning outcomes
+
+This final project shows:
+
+**Understanding of deep learning models in practice**
+- Using a large language model as the core engine.
+
+**Ability to integrate AI into an application**
+- Not just running a model in isolation, but building a usable agent.
+
+**Awareness of prompt engineering**
+- Controlling model behavior through carefully designed instructions.
+
+**Software engineering practices**
+- Separate repo for the project  
+- Clear README and documentation  
+- Reproducible environment setup  
+
+**Communication of technical work**
+- Demo video  
+- Detailed documentation  
+- This portfolio‑level explanation  
+
+---
+
+### 12. How to explore the project further
+
+If you want to dive deeper:
+
+**Visit the Study Agent GitHub repo**
+- Read the repo’s README.md  
+- Explore the code structure  
+- Look at the prompt templates and configuration  
+
+**Watch the demo video**
+- See the agent in action  
+- Follow along with the setup steps  
+- Listen to the explanation of design choices  
+
+**Run the agent yourself**
+- Clone the repo  
+- Install dependencies  
+- Start a session and ask your own questions  
+
+**Experiment and extend**
+- Modify prompts  
+- Adjust model parameters  
+- Add new features or tools  
+
+---
+
+### 13. Summary
+
+The AI Study Agent is the capstone project for the Deep Learning (ITAI 2376) course, showcasing:
+
+- A practical, student‑focused AI application  
+- Integration of deep learning models into a real workflow  
+- Careful prompt and system design for educational use  
+- Clean, documented, and reproducible implementation in its own repository  
+- A complete demonstration via a YouTube video  
+
+---
+
+### 🔗 Quick Links
+
+**Study Agent Repo:**  
+https://github.com/AimaAyaz/AimaAyaz_Solo_ITAI2376.git
+
+**Demo Video:**  
+https://youtu.be/V3oWfrqrHqs
+
+---
+
+## 👤 Author
+**Aima Ayaz**  
+W216981450@student.hccs.edu
+
+AI Student • ML Engineer in Training  
+Houston, TX
+
+
