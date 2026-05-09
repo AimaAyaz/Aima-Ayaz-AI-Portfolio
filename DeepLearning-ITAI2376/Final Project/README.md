@@ -266,4 +266,21 @@ pip install -r requirements.txt
 3. **Run the main script**
 python main.py
 
+### 7.2 Interaction Flow
+
+Once running, the agent typically:
+
+- **Prompts you to enter a question**
+- **Processes your input** and returns an answer
+- **Allows you to continue the conversation** with follow‑up questions
+
+It may provide:
+
+- Explanations  
+- Examples  
+- Practice questions  
+- Summaries  
+
+All of this is demonstrated in the YouTube demo video linked above.
+
 
